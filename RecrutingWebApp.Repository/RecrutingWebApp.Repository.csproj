@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RecrutingWebApp.Util\RecrutingWebApp.Util.csproj" />
+    <ProjectReference Include="..\RecrutingWebApp.Model\RecrutingWebApp.Model.csproj" />
+  </ItemGroup>
+
+</Project>
